@@ -1,0 +1,17 @@
+/* src/App.module.css */
+.app {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    padding: 20px;
+    min-height: 100vh;
+    background-color: #f8f9fa; /* Light background for the whole page */
+}
+
+.title {
+    color: #343a40;
+    margin-bottom: 40px;
+    font-size: 2.5em;
+    border-bottom: 2px solid #007bff;
+    display: inline-block;
+    padding-bottom: 5px;
+}
